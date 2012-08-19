@@ -6,6 +6,10 @@
 *.out
 
 .history
-
+.classpath
+.project
+.cache
 target/
-project/
+project/project
+project/target
+.settings
